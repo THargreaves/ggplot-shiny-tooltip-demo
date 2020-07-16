@@ -1,0 +1,10 @@
+#plot_tooltip {
+    position: fixed;
+    width: auto;
+    z-index: 100;
+    padding: 0;
+}
+
+.box {
+    margin-bottom: 0;
+}
